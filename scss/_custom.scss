@@ -1,0 +1,17 @@
+// MY THEME COLORS 
+$blue-chill: #3d948e;
+$gold: #dcce90;
+
+$white: #fff;
+$gray-100: #f5f5f5; //$bg-light
+$gray-300: #999b9a; //$text-color-grey //$on-bg-dark
+$gray-600: #595959; //$on-bg-darkest
+$gray-700: #383838; //$bg-dark
+$gray-800: #414141; //$bg-darkest //$text-darkest
+$gray-900: #212121; //$text-dark
+
+$primary: $blue-chill;
+$secondary: $gold;
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'
